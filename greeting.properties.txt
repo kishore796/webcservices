@@ -1,2 +1,0 @@
-greeting.message=Welcome to FIS
-greeting.name=kishore chowdary
